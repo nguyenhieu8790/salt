@@ -1,0 +1,5 @@
+# doc1.sls
+#% load_yaml as dealing %}
+foo: it works
+#% endload %}
+
